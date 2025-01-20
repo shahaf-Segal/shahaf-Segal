@@ -22,18 +22,15 @@ Here are some tools and technologies I enjoy working with:
 I'm currently exploring:
 
 - PHP and Python AI
-- Advanced Node.js concepts
-- Further development in React ecosystem
 - Japanese (self-taught)
 
 ## 👨‍💻 Projects
 
-Here are some of my favorite projects:
+Here are some of my projects:
 
 1. **Social Media Application**: Developed a platform allowing users to interact via chat, posts, replies, and follows using Sockets, MongoDB, Node.js, and React.
 2. **Educational Institution Management App**: Successfully built with a team of four developers within a 2-month deadline, utilizing Agile methodology and technologies like Node.js, React, TypeScript, JavaScript, and MongoDB.
 
-Feel free to check out my repositories for more!
 
 ## 📫 Let's Connect!
 
