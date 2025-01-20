@@ -31,6 +31,9 @@ Here are some of my projects:
 1. **Social Media Application**: Developed a platform allowing users to interact via chat, posts, replies, and follows using Sockets, MongoDB, Node.js, and React.
 2. **Educational Institution Management App**: Successfully built with a team of four developers within a 2-month deadline, utilizing Agile methodology and technologies like Node.js, React, TypeScript, JavaScript, and MongoDB.
 
+Some of my Projects are currently in my other account, feel free to look at it also
+- LinkedIn: [Shahaf Segal's GitHub](https://github.com/shahafSegal)
+
 
 ## 📫 Let's Connect!
 
