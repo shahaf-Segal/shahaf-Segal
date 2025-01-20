@@ -8,6 +8,13 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Profession**: Full-Stack Developer
 - **Interests**: Programming challenges, hiking, card games, and anime
 
+  ## 🌱 Currently Learning
+
+I'm currently exploring:
+
+- PHP and Python AI
+- Japanese (self-taught)
+
 ## 🛠️ Technologies & Tools
 
 Here are some tools and technologies I enjoy working with:
@@ -17,12 +24,6 @@ Here are some tools and technologies I enjoy working with:
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Sockets](https://img.shields.io/badge/-Sockets-525252?logo=none)
 - Databases: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-## 🌱 Currently Learning
-
-I'm currently exploring:
-
-- PHP and Python AI
-- Japanese (self-taught)
 
 ## 👨‍💻 Projects
 
