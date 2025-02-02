@@ -1,7 +1,3 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile! Here's a little about me:
-
 ## 🚀 About Me
 
 - **Name**: Shahaf Segal
@@ -29,9 +25,6 @@ Some of my Projects are currently in my other account, feel free to look at it a
 - Github: [Shahaf Segal's GitHub](https://github.com/shahafSegal)
 
   ## 🌱 Currently Learning
-
-I'm currently exploring:
-
 - PHP and Python AI
 - Japanese (self-taught)
 
