@@ -8,13 +8,6 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Profession**: Full-Stack Developer
 - **Interests**: Programming challenges, hiking, card games, and anime
 
-  ## 🌱 Currently Learning
-
-I'm currently exploring:
-
-- PHP and Python AI
-- Japanese (self-taught)
-
 ## 🛠️ Technologies & Tools
 
 Here are some tools and technologies I enjoy working with:
@@ -35,6 +28,12 @@ Here are some of my projects:
 Some of my Projects are currently in my other account, feel free to look at it also
 - Github: [Shahaf Segal's GitHub](https://github.com/shahafSegal)
 
+  ## 🌱 Currently Learning
+
+I'm currently exploring:
+
+- PHP and Python AI
+- Japanese (self-taught)
 
 ## 📫 Let's Connect!
 
