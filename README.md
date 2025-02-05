@@ -24,10 +24,6 @@ Here are some of my projects:
 Some of my Projects are currently in my other account, feel free to look at it also
 - Github: [Shahaf Segal's GitHub](https://github.com/shahafSegal)
 
-  ## 🌱 Currently Learning
-- PHP and Python AI
-- Japanese (self-taught)
-
 ## 📫 Let's Connect!
 
 - LinkedIn: [Shahaf Segal's LinkedIn Profile](http://www.linkedin.com/in/shahaf-segal-308883288)
