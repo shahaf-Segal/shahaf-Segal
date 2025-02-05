@@ -29,9 +29,5 @@ Some of my Projects are currently in my other account, feel free to look at it a
 - LinkedIn: [Shahaf Segal's LinkedIn Profile](http://www.linkedin.com/in/shahaf-segal-308883288)
 - Email: [shahaf100@outlook.co.il](mailto:shahaf100@outlook.co.il)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shahaf-Segal&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahaf-Segal&layout=compact&theme=radical)
 
